@@ -2,11 +2,18 @@
 title: Suteki na Kanojo no Tsukurikata
 date: 2021-04-23
 cover: https://s2.vndb.org/cv/89/44589.jpg
+category:
+  - Hikari Field
+  - sushi_soft
 tags:
   - Hikari Field
   - sushi_soft
-author: vic485
+#author: vic485
 ---
+## Suteki na Kanojo no Tsukurikata
+Suteki na Kanojo no Tsukurikata a.k.a. Sutekano is a visual novel developed by sushi_soft and published by Hikari Field. More information can be found on the [vndb](https://vndb.org/v29404) page.
+
+The following guide is based on the original from [Seiya-Saiga](https://seiya-saiga.com/game/sushisoft/sutekano.html) translated to the english version. The guide requires 7 save slots and will take you through all 8 endings, unlocking all cgs along the way.
 
 ### Main Route (Ending 8)
 <input type="checkbox"> So ugly I wanna die lol
