@@ -13,6 +13,8 @@ tags:
 ## Sugar*Style
 Sugar*Style is a visual novel developed by Smee and published in English by NekoNyan. More information can be found on the [vndb](https://vndb.org/v24320) page.
 
+The following guide is based on the original from [Seiya-Saiga](https://seiya-saiga.com/game/smee/sugarstyle.html) translated to the english version. The guide requires 1 save slot and will take you through all 4 endings, unlocking all cgs along the way.
+
 ###  Ichika End 
 **Save 1**
 <input type="checkbox"> Choose Ichika
