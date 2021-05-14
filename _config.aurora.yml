@@ -17,7 +17,7 @@ site:
   language: en
   multi_language: false
   logo: https://img-blog.csdnimg.cn/20210313122054101.png
-  avatar: https://cdn.discordapp.com/avatars/222693652537933824/a_6891d6d685c7fed8a0c8a47f96bb9ea4.gif
+  avatar: https://cdn.discordapp.com/avatars/222693652537933824/a_6891d6d685c7fed8a0c8a47f96bb9ea4.png
   beian:
     number: ''
     link: ''
@@ -124,7 +124,7 @@ valine:
 # Enable Busuanzi statistic plugin
 # see http://ibruce.info/2015/04/04/busuanzi/
 busuanzi:
-  enable: false
+  enable: true
 
 copy_protection:
   enable: true
